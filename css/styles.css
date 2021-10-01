@@ -118,3 +118,22 @@ width: 200px;
         & .menu-button-label .white-bar;
             background-color black; */
 }
+
+
+.estilos img {
+    border-radius: 8px;
+    transition: all 0.4s linear;
+}
+.estilos img:hover{
+    transform: scale(0.9);
+}
+
+/* img {
+    width: auto;
+    height: auto;
+    max-height: 800px;
+    max-width: 800px;
+    display: inline;
+    margin: 0 auto;
+    max-width: 100%;
+} */
