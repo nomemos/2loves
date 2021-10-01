@@ -1,0 +1,54 @@
+body{ 
+    
+    background-color: #1F1F1F;
+    /* font-size: 22px;
+    line-height: 28px; */
+    letter-spacing: 4px;
+    /* font-family: "Raleway";
+    font-weight: 400; */
+    padding: 10px;
+}
+
+h1 {
+    color: #D422FF;
+}
+
+.nav-bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    min-height: 100px;
+    padding: 0 25px;
+    box-sizing: border-box;
+    background-color: rgba(255,255,255,0.02);
+    box-shadow: 0 0 15px 2px rgba(0,0,0,0.5);
+    z-index: 100;
+    backface-visibility: hidden;
+    transition: 0.35s ease;
+    color: #D422FF;
+    font-size: 80px;
+    font-weight: 300;
+    
+    /* & .logo;
+        position absolute;
+        left 40px;
+        top 50%;
+        transform translateY(-50%);
+        text-transform uppercase;
+        color #CCC;
+        font-size 28px;
+        font-weight 300;
+        cursor pointer;
+        & span;
+            color #E78533;
+            font-weight 600;
+    &.scrolled;
+        min-height 60px;
+        background-color #FDFDFD;
+        box-shadow 0 0 30px 3px rgba(0,0,0,0.6);
+        & .logo;
+            color black;
+        & .menu-button-label .white-bar;
+            background-color black; */
+}
